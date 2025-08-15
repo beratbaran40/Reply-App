@@ -11,7 +11,7 @@
 - **Multiple Navigation Patterns**  
   Compact layouts use bottom navigation, while expanded screens switch to navigation rail or side drawer.
 - **Material 3 Theming**  
-  Implements M3 theming, including primary-container and on-primary-container for emphasized UI states  [oai_citation:0‡GitHub](https://github.com/google-developer-training/basic-android-kotlin-compose-training-reply-app?utm_source=chatgpt.com) [oai_citation:1‡Android Developers](https://developer.android.com/develop/ui/compose/designsystems/material3?utm_source=chatgpt.com) [oai_citation:2‡Android Developers](https://developer.android.com/codelabs/basic-android-kotlin-compose-adaptive-content-for-large-screens?utm_source=chatgpt.com) [oai_citation:3‡Google Codelabs](https://codelabs.developers.google.com/jetpack-compose-adaptability?utm_source=chatgpt.com).
+  Implements M3 theming, including primary-container and on-primary-container for emphasized UI states.
 - **Clean, Compose-Only Implementation**  
   Built entirely with Jetpack Compose — no fragments or XML needed.
 
